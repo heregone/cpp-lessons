@@ -1,0 +1,22 @@
+# Eseguibili compilati
+*.exe
+*.out
+*.o
+
+# Cartelle di build
+build/
+bin/
+obj/
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary
+*.tmp
+*.log
