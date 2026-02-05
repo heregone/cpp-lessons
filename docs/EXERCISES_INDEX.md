@@ -22,16 +22,16 @@
 
 | # | Descrizione | Status | File |
 |---|-------------|--------|------|
-| 18 | Sconto 30% sul secondo prodotto meno caro | ⬜ TODO | |
-| 19 | Prezzo biglietto traghetto (persone + mezzi) | ⬜ TODO | |
-| 20 | Edicola - guadagno quotidiani | ⬜ TODO | |
-| 21 | Negozio online - sconto + spedizione | ⬜ TODO | |
-| 22 | Assicurazione auto - costo contratto | ⬜ TODO | |
-| 23 | Conto corrente - versamenti/prelievi/assegni | ⬜ TODO | |
-| 24 | Magazzino blocchi cemento - menu gestione | ⬜ TODO | |
-| 25 | Blocchi cemento - peso e trasporto | ⬜ TODO | |
-| 26 | Fattura con IVA - scontrino | ⬜ TODO | |
-| 27 | Fattura modificata - senza conteggio iniziale | ⬜ TODO | |
+| 18 | Sconto 30% sul secondo prodotto meno caro | ✅ DONE | `ex_18_discount.cpp` |
+| 19 | Prezzo biglietto traghetto (persone + mezzi) | ✅ DONE | `ex_19_ferry.cpp` |
+| 20 | Edicola - guadagno quotidiani | ✅ DONE | `ex_20_newspaper.cpp` |
+| 21 | Negozio online - sconto + spedizione | ✅ DONE | `ex_21_online_shop.cpp` |
+| 22 | Assicurazione auto - costo contratto | ✅ DONE | `ex_22_insurance.cpp` |
+| 23 | Conto corrente - versamenti/prelievi/assegni | ✅ DONE | `ex_23_bank_account.cpp` |
+| 24 | Magazzino blocchi cemento - menu gestione | ✅ DONE | `ex_24_cement_blocks.cpp` |
+| 25 | Blocchi cemento - peso e trasporto | ✅ DONE | `ex_25_cement_transport.cpp` |
+| 26 | Fattura con IVA - scontrino | ✅ DONE | `ex_26_invoice_vat.cpp` |
+| 27 | Fattura modificata - senza conteggio iniziale | ✅ DONE | `ex_27_invoice_no_count.cpp` |
 
 ---
 
