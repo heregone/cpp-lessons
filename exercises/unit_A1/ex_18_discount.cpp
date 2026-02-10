@@ -15,6 +15,8 @@
  */
 
 #include <iostream>
+#include <iomanip>
+#include <limits>
 using namespace std;
 
 // ============================================
@@ -84,10 +86,16 @@ int main() {
     cout << endl;
     
     cout << "Inserisci il prezzo del primo prodotto (euro): ";
-    cin >> productPrice1;
-    
+    if (!(cin >> productPrice1)) {
+        cerr << "Input non valido per il primo prezzo. Termino.\n";
+        return 1;
+    }
+
     cout << "Inserisci il prezzo del secondo prodotto (euro): ";
-    cin >> productPrice2;
+    if (!(cin >> productPrice2)) {
+        cerr << "Input non valido per il secondo prezzo. Termino.\n";
+        return 1;
+    }
     
     // -----------------------------------------
     // STEP 3: Elaborazione - Chiamata funzione
@@ -99,11 +107,17 @@ int main() {
     // -----------------------------------------
     cout << endl;
     cout << "--- RIEPILOGO ---" << endl;
+    cout << fixed << setprecision(2);
     cout << "Prezzo prodotto 1: " << productPrice1 << " euro" << endl;
     cout << "Prezzo prodotto 2: " << productPrice2 << " euro" << endl;
     cout << "Sconto 30% applicato al prodotto meno caro" << endl;
     cout << endl;
     cout << "TOTALE DA PAGARE: " << totalToPay << " euro" << endl;
     
+    // Pausa finale per permettere di vedere l'output prima di chiudere la console
+    cout << "\nPremi INVIO per uscire...";
+    cin.ignore(numeric_limits<streamsize>::max(), '\n');
+    cin.get();
+
     return 0;
 }
