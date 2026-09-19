@@ -1,0 +1,14 @@
+{
+  "schema": "lorenzomontarese-public-site-auxiliary-store/v1",
+  "source_url": "https://www.lorenzomontarese.com/",
+  "snapshot_date": "2026-09-19",
+  "captured_at": "2026-09-19T15:51:27.916Z",
+  "capture_commit": "7357343e8f7303c0132b774256bf02e0505d5eea",
+  "snapshot_tree": "8f794d09f2f17630515f53170e42908e7dbd75f6",
+  "tar_gz_sha256": "2118d8f65d6530f2eb3a54031e21db82ff8d2ae6e4916897e5d6e71e287a4df1",
+  "live_url_records": 25,
+  "unique_live_pages": 24,
+  "non_live_records": 12,
+  "resource_count": 518,
+  "runtime_failures": 0
+}
