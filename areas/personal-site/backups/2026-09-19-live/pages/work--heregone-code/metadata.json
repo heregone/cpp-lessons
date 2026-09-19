@@ -1,0 +1,319 @@
+{
+  "requestedUrl": "https://www.lorenzomontarese.com/work/heregone-code",
+  "capturedAt": "2026-09-19T15:49:25.530Z",
+  "desktop": {
+    "status": 200,
+    "finalUrl": "https://www.lorenzomontarese.com/work/heregone-code",
+    "title": "Lorenzo Montarese - HereGone code",
+    "language": "en-US",
+    "canonical": "",
+    "description": "",
+    "headings": [
+      {
+        "level": 1,
+        "text": "< HereGone Code and SQL schema"
+      },
+      {
+        "level": 2,
+        "text": "SQL  database schema for HereGone"
+      }
+    ],
+    "text": "< HereGone Code and SQL schema\n\nThis code, absolutely convoluted and written straight away without previous planning, was one of my first Java programming experiments, as long as you understand how it works you can see a good example of stubborn but absolutely wrong programming. The view management Java application is certainly better, also due to the fact that in the meantime I had followed the software engineering courses. Anyway if you want to see bad code:",
+    "links": [
+      {
+        "href": "https://www.lorenzomontarese.com/home",
+        "text": "Lorenzo Montarese"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/home",
+        "text": "HOME"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work",
+        "text": "Work"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work/heregone-code",
+        "text": "HereGone code"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work/java-app-for-view-management",
+        "text": "Java app for view management"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work/ms-access-app-for-restaurant-management",
+        "text": "MS Access app for restaurant management"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work/excel-tools",
+        "text": "Excel tools"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching",
+        "text": "Teaching"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/copia-di-its-project-management-course",
+        "text": "Copia di ITS Project management course"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/its-project-management-course",
+        "text": "ITS Project management course"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/excel-course",
+        "text": "Excel Course"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/school-projects",
+        "text": "School projects"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/studies",
+        "text": "Studies"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/studies/thesis-eng",
+        "text": "Thesis - ENG"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/studies/thesis-ita",
+        "text": "Thesis - ITA"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/studies/exam-list",
+        "text": "Exam list"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/about",
+        "text": "About"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/about/sketchup-projects",
+        "text": "Sketchup projects"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/about/photos",
+        "text": "Photos"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/curriculum",
+        "text": "Curriculum"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/home",
+        "text": "Lorenzo Montarese"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/home",
+        "text": "HOME"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work",
+        "text": "Work"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work/heregone-code",
+        "text": "HereGone code"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work/java-app-for-view-management",
+        "text": "Java app for view management"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work/ms-access-app-for-restaurant-management",
+        "text": "MS Access app for restaurant management"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work/excel-tools",
+        "text": "Excel tools"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching",
+        "text": "Teaching"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/copia-di-its-project-management-course",
+        "text": "Copia di ITS Project management course"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/its-project-management-course",
+        "text": "ITS Project management course"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/excel-course",
+        "text": "Excel Course"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/school-projects",
+        "text": "School projects"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/studies",
+        "text": "Studies"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/studies/thesis-eng",
+        "text": "Thesis - ENG"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/studies/thesis-ita",
+        "text": "Thesis - ITA"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/studies/exam-list",
+        "text": "Exam list"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/about",
+        "text": "About"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/about/sketchup-projects",
+        "text": "Sketchup projects"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/about/photos",
+        "text": "Photos"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/curriculum",
+        "text": "Curriculum"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/home",
+        "text": "HOME"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work",
+        "text": "Work"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work/heregone-code",
+        "text": "HereGone code"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work/java-app-for-view-management",
+        "text": "Java app for view management"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work/ms-access-app-for-restaurant-management",
+        "text": "MS Access app for restaurant management"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work/excel-tools",
+        "text": "Excel tools"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching",
+        "text": "Teaching"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/copia-di-its-project-management-course",
+        "text": "Copia di ITS Project management course"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/its-project-management-course",
+        "text": "ITS Project management course"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/excel-course",
+        "text": "Excel Course"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/school-projects",
+        "text": "School projects"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/studies",
+        "text": "Studies"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/studies/thesis-eng",
+        "text": "Thesis - ENG"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/studies/thesis-ita",
+        "text": "Thesis - ITA"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/studies/exam-list",
+        "text": "Exam list"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/about",
+        "text": "About"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/about/sketchup-projects",
+        "text": "Sketchup projects"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/about/photos",
+        "text": "Photos"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/curriculum",
+        "text": "Curriculum"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work/heregone-code#h.sjp2ywyor96j",
+        "text": ""
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work",
+        "text": "<"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work/java-app-for-view-management",
+        "text": "The view management Java application"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work/heregone-code#h.pwtoqyy5ce1w",
+        "text": ""
+      }
+    ],
+    "images": [
+      {
+        "src": "https://www.gstatic.com/images/icons/material/product/1x/drive_2026_32dp.png",
+        "alt": "",
+        "width": 32,
+        "height": 32
+      },
+      {
+        "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72srpefJ4Ie-ipe3gbzxivAslOvb9RrrHXv_Ij8gSRooW2FlctN-yQTvkgS_eMFeeYdJHbkDPsqZTD9b9Y9Ty8R5meoFzwfMxTHEHyRXsou0yOhbeeID7eakSVjfs9S3fZgI0as0s5pSSNyZy1IbMukm5IIT4MqQRCSJhoWxjMxRMwch91wwr0BTHASTF-zntcB7s3fhU7JJ-MeKgZHHjY6p8SdmdlJ33KY7JOPtpSY=w1280",
+        "alt": "",
+        "width": 1280,
+        "height": 746
+      },
+      {
+        "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72t2tux10mp5_HLCSADr9fyizu-ZWsfYQ4nap_JYQscRzXc2in2p3n2ZNM0MT7NI3iVC20PRfsvy7DtaUAOvqyjg3GHL-LfaqOrWYJVWYpb4TH8oV3AAbn7ODMM6yP9oSGbG2iNdPVcFuPMmtM4ZdhUGl_Eyesxl6tPbfvvQOWDXVJ9IgnhMlDg6vzqHqF-GcjjfsMXqyzRLpN5HXUOhxcYsX3wCF1B-TNA2DAwvU34=w1280",
+        "alt": "",
+        "width": 1280,
+        "height": 746
+      }
+    ],
+    "embeds": [
+      {
+        "tag": "iframe",
+        "src": "https://drive.google.com/file/d/1iWOOnWXpYZsBDCV3llI1BVqs1JzD6mKM/preview"
+      }
+    ],
+    "dimensions": {
+      "width": 1440,
+      "height": 900,
+      "scrollWidth": 1440,
+      "scrollHeight": 3054
+    }
+  },
+  "mobile": {
+    "status": 200,
+    "finalUrl": "https://www.lorenzomontarese.com/work/heregone-code",
+    "dimensions": {
+      "width": 390,
+      "height": 844,
+      "scrollWidth": 390,
+      "scrollHeight": 1550
+    }
+  }
+}

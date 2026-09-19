@@ -1,0 +1,121 @@
+# Lorenzo Montarese - Studies
+
+- URL: https://www.lorenzomontarese.com/studies
+- Final URL: https://www.lorenzomontarese.com/studies
+- HTTP: 200
+- Captured: 2026-09-19T15:48:29.891Z
+
+## Structure
+
+- H1: < Studies
+  - H2: High school
+  - H2: Master's degree in management engineering - Parma
+    - H3: Create a software product, starting from an idea through project management techniques
+    - H3: > Thesis - ENGLISH
+    - H3: > Thesis - ITALIAN
+    - H3: > Exam list
+  - H2: Self studies
+    - H3: Online courses
+    - H3: Studied books
+
+## Visible text
+
+< Studies
+
+## Links
+
+- [Lorenzo Montarese](https://www.lorenzomontarese.com/home)
+- [HOME](https://www.lorenzomontarese.com/home)
+- [Work](https://www.lorenzomontarese.com/work)
+- [HereGone code](https://www.lorenzomontarese.com/work/heregone-code)
+- [Java app for view management](https://www.lorenzomontarese.com/work/java-app-for-view-management)
+- [MS Access app for restaurant management](https://www.lorenzomontarese.com/work/ms-access-app-for-restaurant-management)
+- [Excel tools](https://www.lorenzomontarese.com/work/excel-tools)
+- [Teaching](https://www.lorenzomontarese.com/teaching)
+- [Copia di ITS Project management course](https://www.lorenzomontarese.com/teaching/copia-di-its-project-management-course)
+- [ITS Project management course](https://www.lorenzomontarese.com/teaching/its-project-management-course)
+- [Excel Course](https://www.lorenzomontarese.com/teaching/excel-course)
+- [School projects](https://www.lorenzomontarese.com/teaching/school-projects)
+- [Studies](https://www.lorenzomontarese.com/studies)
+- [Thesis - ENG](https://www.lorenzomontarese.com/studies/thesis-eng)
+- [Thesis - ITA](https://www.lorenzomontarese.com/studies/thesis-ita)
+- [Exam list](https://www.lorenzomontarese.com/studies/exam-list)
+- [About](https://www.lorenzomontarese.com/about)
+- [Sketchup projects](https://www.lorenzomontarese.com/about/sketchup-projects)
+- [Photos](https://www.lorenzomontarese.com/about/photos)
+- [Curriculum](https://www.lorenzomontarese.com/curriculum)
+- [Lorenzo Montarese](https://www.lorenzomontarese.com/home)
+- [HOME](https://www.lorenzomontarese.com/home)
+- [Work](https://www.lorenzomontarese.com/work)
+- [HereGone code](https://www.lorenzomontarese.com/work/heregone-code)
+- [Java app for view management](https://www.lorenzomontarese.com/work/java-app-for-view-management)
+- [MS Access app for restaurant management](https://www.lorenzomontarese.com/work/ms-access-app-for-restaurant-management)
+- [Excel tools](https://www.lorenzomontarese.com/work/excel-tools)
+- [Teaching](https://www.lorenzomontarese.com/teaching)
+- [Copia di ITS Project management course](https://www.lorenzomontarese.com/teaching/copia-di-its-project-management-course)
+- [ITS Project management course](https://www.lorenzomontarese.com/teaching/its-project-management-course)
+- [Excel Course](https://www.lorenzomontarese.com/teaching/excel-course)
+- [School projects](https://www.lorenzomontarese.com/teaching/school-projects)
+- [Studies](https://www.lorenzomontarese.com/studies)
+- [Thesis - ENG](https://www.lorenzomontarese.com/studies/thesis-eng)
+- [Thesis - ITA](https://www.lorenzomontarese.com/studies/thesis-ita)
+- [Exam list](https://www.lorenzomontarese.com/studies/exam-list)
+- [About](https://www.lorenzomontarese.com/about)
+- [Sketchup projects](https://www.lorenzomontarese.com/about/sketchup-projects)
+- [Photos](https://www.lorenzomontarese.com/about/photos)
+- [Curriculum](https://www.lorenzomontarese.com/curriculum)
+- [HOME](https://www.lorenzomontarese.com/home)
+- [Work](https://www.lorenzomontarese.com/work)
+- [HereGone code](https://www.lorenzomontarese.com/work/heregone-code)
+- [Java app for view management](https://www.lorenzomontarese.com/work/java-app-for-view-management)
+- [MS Access app for restaurant management](https://www.lorenzomontarese.com/work/ms-access-app-for-restaurant-management)
+- [Excel tools](https://www.lorenzomontarese.com/work/excel-tools)
+- [Teaching](https://www.lorenzomontarese.com/teaching)
+- [Copia di ITS Project management course](https://www.lorenzomontarese.com/teaching/copia-di-its-project-management-course)
+- [ITS Project management course](https://www.lorenzomontarese.com/teaching/its-project-management-course)
+- [Excel Course](https://www.lorenzomontarese.com/teaching/excel-course)
+- [School projects](https://www.lorenzomontarese.com/teaching/school-projects)
+- [Studies](https://www.lorenzomontarese.com/studies)
+- [Thesis - ENG](https://www.lorenzomontarese.com/studies/thesis-eng)
+- [Thesis - ITA](https://www.lorenzomontarese.com/studies/thesis-ita)
+- [Exam list](https://www.lorenzomontarese.com/studies/exam-list)
+- [About](https://www.lorenzomontarese.com/about)
+- [Sketchup projects](https://www.lorenzomontarese.com/about/sketchup-projects)
+- [Photos](https://www.lorenzomontarese.com/about/photos)
+- [Curriculum](https://www.lorenzomontarese.com/curriculum)
+- [https://www.lorenzomontarese.com/studies#h.i3prztgj9k7t](https://www.lorenzomontarese.com/studies#h.i3prztgj9k7t)
+- [<](https://www.lorenzomontarese.com/home)
+- [https://www.lorenzomontarese.com/studies#h.xucd65g3k1lh](https://www.lorenzomontarese.com/studies#h.xucd65g3k1lh)
+- [https://www.lorenzomontarese.com/studies#h.ei8b5cacaxr](https://www.lorenzomontarese.com/studies#h.ei8b5cacaxr)
+- [https://www.lorenzomontarese.com/studies#h.bcdlz0u3c8yr](https://www.lorenzomontarese.com/studies#h.bcdlz0u3c8yr)
+- [https://www.lorenzomontarese.com/studies#h.8m5c3dza9mm6](https://www.lorenzomontarese.com/studies#h.8m5c3dza9mm6)
+- [> Thesis - ENGLISH](https://www.lorenzomontarese.com/studies/thesis-eng)
+- [https://www.lorenzomontarese.com/studies#h.rmfjsryjq66w](https://www.lorenzomontarese.com/studies#h.rmfjsryjq66w)
+- [> Thesis - ITALIAN](https://www.lorenzomontarese.com/studies/thesis-ita)
+- [https://www.lorenzomontarese.com/studies#h.u8obohixuymq](https://www.lorenzomontarese.com/studies#h.u8obohixuymq)
+- [Exam list](https://www.lorenzomontarese.com/studies/exam-list)
+- [https://www.lorenzomontarese.com/studies#h.jyq9mwxs6dr6](https://www.lorenzomontarese.com/studies#h.jyq9mwxs6dr6)
+- [Works page](https://www.lorenzomontarese.com/work)
+- [https://www.lorenzomontarese.com/studies#h.ead8bn1lnkgi](https://www.lorenzomontarese.com/studies#h.ead8bn1lnkgi)
+- [https://www.youtube.com/playlist?list=PL0qAPtx8YtJe2dpE7di4aPJwrQuRD6IDD](https://www.youtube.com/playlist?list=PL0qAPtx8YtJe2dpE7di4aPJwrQuRD6IDD)
+- [https://www.youtube.com/playlist?list=PL0qAPtx8YtJee1dk24wX-68yHTnMfzdX5](https://www.youtube.com/playlist?list=PL0qAPtx8YtJee1dk24wX-68yHTnMfzdX5)
+- [https://www.youtube.com/playlist?list=PL0qAPtx8YtJfRML8EDs7v9nwjdOt6dvaf](https://www.youtube.com/playlist?list=PL0qAPtx8YtJfRML8EDs7v9nwjdOt6dvaf)
+- [https://www.youtube.com/playlist?list=PL0qAPtx8YtJeqmBWbE1Rbac2QWHoPCjR2](https://www.youtube.com/playlist?list=PL0qAPtx8YtJeqmBWbE1Rbac2QWHoPCjR2)
+- [https://www.youtube.com/playlist?list=PL0qAPtx8YtJcJPSV4sOfhLtPbtQ-yycFH](https://www.youtube.com/playlist?list=PL0qAPtx8YtJcJPSV4sOfhLtPbtQ-yycFH)
+- [https://www.youtube.com/playlist?list=PLE555DB6188C967AC](https://www.youtube.com/playlist?list=PLE555DB6188C967AC)
+- [https://www.youtube.com/playlist?list=PL0qAPtx8YtJftaLnIroe7q9udsc9_qg6x](https://www.youtube.com/playlist?list=PL0qAPtx8YtJftaLnIroe7q9udsc9_qg6x)
+- [https://www.udacity.com/course/java-programming-basics--ud282](https://www.udacity.com/course/java-programming-basics--ud282)
+- [https://www.udacity.com/course/firebase-in-a-weekend-by-google-android--ud0352](https://www.udacity.com/course/firebase-in-a-weekend-by-google-android--ud0352)
+- [https://www.udacity.com/course/software-architecture-design--ud821](https://www.udacity.com/course/software-architecture-design--ud821)
+- [https://www.udacity.com/course/software-development-process--ud805](https://www.udacity.com/course/software-development-process--ud805)
+- [https://www.udacity.com/course/product-design--ud509](https://www.udacity.com/course/product-design--ud509)
+- [https://www.udacity.com/course/how-to-build-a-startup--ep245](https://www.udacity.com/course/how-to-build-a-startup--ep245)
+- [https://www.youtube.com/playlist?list=PL11qn6zM2Y3bMZdChxEqHKaCaKUjwItGL](https://www.youtube.com/playlist?list=PL11qn6zM2Y3bMZdChxEqHKaCaKUjwItGL)
+- [https://www.udacity.com/course/introduction-to-digital-project-management--ud043](https://www.udacity.com/course/introduction-to-digital-project-management--ud043)
+- [https://www.udacity.com/course/managing-remote-teams-with-upwork--ud942](https://www.udacity.com/course/managing-remote-teams-with-upwork--ud942)
+- [https://www.youtube.com/@VibhorChandel](https://www.youtube.com/@VibhorChandel)
+- [https://www.youtube.com/@Lacerbaio](https://www.youtube.com/@Lacerbaio)
+- [https://www.youtube.com/@mmontemagno](https://www.youtube.com/@mmontemagno)
+- [https://www.youtube.com/@StartupGeeksYoutube](https://www.youtube.com/@StartupGeeksYoutube)
+- [https://www.youtube.com/@mr_rip](https://www.youtube.com/@mr_rip)
+- [https://www.lorenzomontarese.com/studies#h.t4iky5u9maq8](https://www.lorenzomontarese.com/studies#h.t4iky5u9maq8)

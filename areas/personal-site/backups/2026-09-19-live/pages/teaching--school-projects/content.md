@@ -1,0 +1,122 @@
+# Lorenzo Montarese - School projects
+
+- URL: https://www.lorenzomontarese.com/teaching/school-projects
+- Final URL: https://www.lorenzomontarese.com/teaching/school-projects
+- HTTP: 200
+- Captured: 2026-09-19T15:50:42.381Z
+
+## Structure
+
+- H1: < School projects
+  - H2: Calendario incontri:
+    - H3: Mercoledì 1 aprile
+    - H3: Mercoledì 15 aprile
+    - H3: Martedì 28 aprile
+    - H3: Martedì 5 maggio
+    - H3: Mercoledì 6 maggio
+  - H2: Il corso giunge alla sua quarta edizione, di seguito potrete vedere i contenuti delle edizioni precedenti da cui si prenderà spunto per l'edizione attuale sulla base delle preferenze espresse dagli studenti con un occhio alla programmazione e all'analisi con AI in esecuzione su centinaia di file contemporaneamente
+    - H3: ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    - H3: Contenuti precedente edizione qui sotto
+    - H3: VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
+  - H2: Educazione all'imprenditoria: progettazione e sviluppo di idee imprenditoriali A - 10 ore
+    - H3: Programma:
+  - H2: Educazione all'imprenditoria: progettazione e sviluppo di idee imprenditoriali B (secondo percorso) - 10 ore
+    - H3: Programma di massima:
+  - H2: Consigliati:
+    - H3: Serie video
+    - H3: Canali social
+    - H3: Film
+    - H3: Serie tv
+    - H3: Podcast
+    - H3: Libri (fare riferimento alla fine della pagina studies di questo sito)
+
+## Visible text
+
+< School projects
+
+## Links
+
+- [Lorenzo Montarese](https://www.lorenzomontarese.com/home)
+- [HOME](https://www.lorenzomontarese.com/home)
+- [Work](https://www.lorenzomontarese.com/work)
+- [HereGone code](https://www.lorenzomontarese.com/work/heregone-code)
+- [Java app for view management](https://www.lorenzomontarese.com/work/java-app-for-view-management)
+- [MS Access app for restaurant management](https://www.lorenzomontarese.com/work/ms-access-app-for-restaurant-management)
+- [Excel tools](https://www.lorenzomontarese.com/work/excel-tools)
+- [Teaching](https://www.lorenzomontarese.com/teaching)
+- [Copia di ITS Project management course](https://www.lorenzomontarese.com/teaching/copia-di-its-project-management-course)
+- [ITS Project management course](https://www.lorenzomontarese.com/teaching/its-project-management-course)
+- [Excel Course](https://www.lorenzomontarese.com/teaching/excel-course)
+- [School projects](https://www.lorenzomontarese.com/teaching/school-projects)
+- [Studies](https://www.lorenzomontarese.com/studies)
+- [Thesis - ENG](https://www.lorenzomontarese.com/studies/thesis-eng)
+- [Thesis - ITA](https://www.lorenzomontarese.com/studies/thesis-ita)
+- [Exam list](https://www.lorenzomontarese.com/studies/exam-list)
+- [About](https://www.lorenzomontarese.com/about)
+- [Sketchup projects](https://www.lorenzomontarese.com/about/sketchup-projects)
+- [Photos](https://www.lorenzomontarese.com/about/photos)
+- [Curriculum](https://www.lorenzomontarese.com/curriculum)
+- [Lorenzo Montarese](https://www.lorenzomontarese.com/home)
+- [HOME](https://www.lorenzomontarese.com/home)
+- [Work](https://www.lorenzomontarese.com/work)
+- [HereGone code](https://www.lorenzomontarese.com/work/heregone-code)
+- [Java app for view management](https://www.lorenzomontarese.com/work/java-app-for-view-management)
+- [MS Access app for restaurant management](https://www.lorenzomontarese.com/work/ms-access-app-for-restaurant-management)
+- [Excel tools](https://www.lorenzomontarese.com/work/excel-tools)
+- [Teaching](https://www.lorenzomontarese.com/teaching)
+- [Copia di ITS Project management course](https://www.lorenzomontarese.com/teaching/copia-di-its-project-management-course)
+- [ITS Project management course](https://www.lorenzomontarese.com/teaching/its-project-management-course)
+- [Excel Course](https://www.lorenzomontarese.com/teaching/excel-course)
+- [School projects](https://www.lorenzomontarese.com/teaching/school-projects)
+- [Studies](https://www.lorenzomontarese.com/studies)
+- [Thesis - ENG](https://www.lorenzomontarese.com/studies/thesis-eng)
+- [Thesis - ITA](https://www.lorenzomontarese.com/studies/thesis-ita)
+- [Exam list](https://www.lorenzomontarese.com/studies/exam-list)
+- [About](https://www.lorenzomontarese.com/about)
+- [Sketchup projects](https://www.lorenzomontarese.com/about/sketchup-projects)
+- [Photos](https://www.lorenzomontarese.com/about/photos)
+- [Curriculum](https://www.lorenzomontarese.com/curriculum)
+- [HOME](https://www.lorenzomontarese.com/home)
+- [Work](https://www.lorenzomontarese.com/work)
+- [HereGone code](https://www.lorenzomontarese.com/work/heregone-code)
+- [Java app for view management](https://www.lorenzomontarese.com/work/java-app-for-view-management)
+- [MS Access app for restaurant management](https://www.lorenzomontarese.com/work/ms-access-app-for-restaurant-management)
+- [Excel tools](https://www.lorenzomontarese.com/work/excel-tools)
+- [Teaching](https://www.lorenzomontarese.com/teaching)
+- [Copia di ITS Project management course](https://www.lorenzomontarese.com/teaching/copia-di-its-project-management-course)
+- [ITS Project management course](https://www.lorenzomontarese.com/teaching/its-project-management-course)
+- [Excel Course](https://www.lorenzomontarese.com/teaching/excel-course)
+- [School projects](https://www.lorenzomontarese.com/teaching/school-projects)
+- [Studies](https://www.lorenzomontarese.com/studies)
+- [Thesis - ENG](https://www.lorenzomontarese.com/studies/thesis-eng)
+- [Thesis - ITA](https://www.lorenzomontarese.com/studies/thesis-ita)
+- [Exam list](https://www.lorenzomontarese.com/studies/exam-list)
+- [About](https://www.lorenzomontarese.com/about)
+- [Sketchup projects](https://www.lorenzomontarese.com/about/sketchup-projects)
+- [Photos](https://www.lorenzomontarese.com/about/photos)
+- [Curriculum](https://www.lorenzomontarese.com/curriculum)
+- [https://www.lorenzomontarese.com/teaching/school-projects#h.s2hobyald4ii](https://www.lorenzomontarese.com/teaching/school-projects#h.s2hobyald4ii)
+- [<](https://www.lorenzomontarese.com/work)
+- [Iscriviti al corso](https://forms.gle/uA99tMT8keo1BnFJ8)
+- [https://www.lorenzomontarese.com/teaching/school-projects#h.754sims34e70](https://www.lorenzomontarese.com/teaching/school-projects#h.754sims34e70)
+- [https://www.lorenzomontarese.com/teaching/school-projects#h.xutchhu3f5cq](https://www.lorenzomontarese.com/teaching/school-projects#h.xutchhu3f5cq)
+- [https://www.lorenzomontarese.com/teaching/school-projects#h.qrurk3cd7e57](https://www.lorenzomontarese.com/teaching/school-projects#h.qrurk3cd7e57)
+- [https://www.lorenzomontarese.com/teaching/school-projects#h.tguvv43yzp1m](https://www.lorenzomontarese.com/teaching/school-projects#h.tguvv43yzp1m)
+- [https://www.lorenzomontarese.com/teaching/school-projects#h.xmdxz9mlwpwk](https://www.lorenzomontarese.com/teaching/school-projects#h.xmdxz9mlwpwk)
+- [https://www.lorenzomontarese.com/teaching/school-projects#h.cvc2cuyo2ntt](https://www.lorenzomontarese.com/teaching/school-projects#h.cvc2cuyo2ntt)
+- [https://www.lorenzomontarese.com/teaching/school-projects#h.fsbrkd9pcmq6](https://www.lorenzomontarese.com/teaching/school-projects#h.fsbrkd9pcmq6)
+- [https://www.lorenzomontarese.com/teaching/school-projects#h.es04ikm7i4sm](https://www.lorenzomontarese.com/teaching/school-projects#h.es04ikm7i4sm)
+- [https://www.lorenzomontarese.com/teaching/school-projects#h.lfj0i3oo8mvu](https://www.lorenzomontarese.com/teaching/school-projects#h.lfj0i3oo8mvu)
+- [https://www.lorenzomontarese.com/teaching/school-projects#h.vhqh9fkwmf7y](https://www.lorenzomontarese.com/teaching/school-projects#h.vhqh9fkwmf7y)
+- [https://www.lorenzomontarese.com/teaching/school-projects#h.b2txrzqascbr](https://www.lorenzomontarese.com/teaching/school-projects#h.b2txrzqascbr)
+- [https://www.lorenzomontarese.com/teaching/school-projects#h.ydpmdjxuwn5p](https://www.lorenzomontarese.com/teaching/school-projects#h.ydpmdjxuwn5p)
+- [https://www.lorenzomontarese.com/teaching/school-projects#h.mtvyhebu7ow](https://www.lorenzomontarese.com/teaching/school-projects#h.mtvyhebu7ow)
+- [https://www.lorenzomontarese.com/teaching/school-projects#h.4rbg4q4sk0tc](https://www.lorenzomontarese.com/teaching/school-projects#h.4rbg4q4sk0tc)
+- [https://www.lorenzomontarese.com/teaching/school-projects#h.gy7d21r4aba5](https://www.lorenzomontarese.com/teaching/school-projects#h.gy7d21r4aba5)
+- [https://www.lorenzomontarese.com/teaching/school-projects#h.txjzxgingvh5](https://www.lorenzomontarese.com/teaching/school-projects#h.txjzxgingvh5)
+- [How to start a startup](https://www.youtube.com/watch?v=CBYhVcO4WgI&list=PL11qn6zM2Y3bMZdChxEqHKaCaKUjwItGL&ab_channel=YCombinator%3ATheVault)
+- [https://www.lorenzomontarese.com/teaching/school-projects#h.uml62bv7bm1u](https://www.lorenzomontarese.com/teaching/school-projects#h.uml62bv7bm1u)
+- [https://www.lorenzomontarese.com/teaching/school-projects#h.60uo7j8bjzgh](https://www.lorenzomontarese.com/teaching/school-projects#h.60uo7j8bjzgh)
+- [https://www.lorenzomontarese.com/teaching/school-projects#h.fmdtc0tctfvu](https://www.lorenzomontarese.com/teaching/school-projects#h.fmdtc0tctfvu)
+- [https://www.lorenzomontarese.com/teaching/school-projects#h.kbp08cj7ml8j](https://www.lorenzomontarese.com/teaching/school-projects#h.kbp08cj7ml8j)
+- [https://www.lorenzomontarese.com/teaching/school-projects#h.jm7szp8618dl](https://www.lorenzomontarese.com/teaching/school-projects#h.jm7szp8618dl)

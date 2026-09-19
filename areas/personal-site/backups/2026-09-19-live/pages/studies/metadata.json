@@ -1,0 +1,455 @@
+{
+  "requestedUrl": "https://www.lorenzomontarese.com/studies",
+  "capturedAt": "2026-09-19T15:48:29.892Z",
+  "desktop": {
+    "status": 200,
+    "finalUrl": "https://www.lorenzomontarese.com/studies",
+    "title": "Lorenzo Montarese - Studies",
+    "language": "en-US",
+    "canonical": "",
+    "description": "",
+    "headings": [
+      {
+        "level": 1,
+        "text": "< Studies"
+      },
+      {
+        "level": 2,
+        "text": "High school"
+      },
+      {
+        "level": 2,
+        "text": "Master's degree in management engineering - Parma"
+      },
+      {
+        "level": 3,
+        "text": "Create a software product, starting from an idea through project management techniques"
+      },
+      {
+        "level": 3,
+        "text": "> Thesis - ENGLISH"
+      },
+      {
+        "level": 3,
+        "text": "> Thesis - ITALIAN"
+      },
+      {
+        "level": 3,
+        "text": "> Exam list"
+      },
+      {
+        "level": 2,
+        "text": "Self studies"
+      },
+      {
+        "level": 3,
+        "text": "Online courses"
+      },
+      {
+        "level": 3,
+        "text": "Studied books"
+      }
+    ],
+    "text": "< Studies",
+    "links": [
+      {
+        "href": "https://www.lorenzomontarese.com/home",
+        "text": "Lorenzo Montarese"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/home",
+        "text": "HOME"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work",
+        "text": "Work"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work/heregone-code",
+        "text": "HereGone code"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work/java-app-for-view-management",
+        "text": "Java app for view management"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work/ms-access-app-for-restaurant-management",
+        "text": "MS Access app for restaurant management"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work/excel-tools",
+        "text": "Excel tools"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching",
+        "text": "Teaching"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/copia-di-its-project-management-course",
+        "text": "Copia di ITS Project management course"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/its-project-management-course",
+        "text": "ITS Project management course"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/excel-course",
+        "text": "Excel Course"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/school-projects",
+        "text": "School projects"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/studies",
+        "text": "Studies"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/studies/thesis-eng",
+        "text": "Thesis - ENG"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/studies/thesis-ita",
+        "text": "Thesis - ITA"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/studies/exam-list",
+        "text": "Exam list"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/about",
+        "text": "About"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/about/sketchup-projects",
+        "text": "Sketchup projects"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/about/photos",
+        "text": "Photos"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/curriculum",
+        "text": "Curriculum"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/home",
+        "text": "Lorenzo Montarese"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/home",
+        "text": "HOME"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work",
+        "text": "Work"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work/heregone-code",
+        "text": "HereGone code"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work/java-app-for-view-management",
+        "text": "Java app for view management"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work/ms-access-app-for-restaurant-management",
+        "text": "MS Access app for restaurant management"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work/excel-tools",
+        "text": "Excel tools"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching",
+        "text": "Teaching"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/copia-di-its-project-management-course",
+        "text": "Copia di ITS Project management course"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/its-project-management-course",
+        "text": "ITS Project management course"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/excel-course",
+        "text": "Excel Course"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/school-projects",
+        "text": "School projects"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/studies",
+        "text": "Studies"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/studies/thesis-eng",
+        "text": "Thesis - ENG"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/studies/thesis-ita",
+        "text": "Thesis - ITA"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/studies/exam-list",
+        "text": "Exam list"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/about",
+        "text": "About"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/about/sketchup-projects",
+        "text": "Sketchup projects"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/about/photos",
+        "text": "Photos"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/curriculum",
+        "text": "Curriculum"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/home",
+        "text": "HOME"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work",
+        "text": "Work"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work/heregone-code",
+        "text": "HereGone code"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work/java-app-for-view-management",
+        "text": "Java app for view management"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work/ms-access-app-for-restaurant-management",
+        "text": "MS Access app for restaurant management"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work/excel-tools",
+        "text": "Excel tools"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching",
+        "text": "Teaching"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/copia-di-its-project-management-course",
+        "text": "Copia di ITS Project management course"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/its-project-management-course",
+        "text": "ITS Project management course"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/excel-course",
+        "text": "Excel Course"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/school-projects",
+        "text": "School projects"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/studies",
+        "text": "Studies"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/studies/thesis-eng",
+        "text": "Thesis - ENG"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/studies/thesis-ita",
+        "text": "Thesis - ITA"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/studies/exam-list",
+        "text": "Exam list"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/about",
+        "text": "About"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/about/sketchup-projects",
+        "text": "Sketchup projects"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/about/photos",
+        "text": "Photos"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/curriculum",
+        "text": "Curriculum"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/studies#h.i3prztgj9k7t",
+        "text": ""
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/home",
+        "text": "<"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/studies#h.xucd65g3k1lh",
+        "text": ""
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/studies#h.ei8b5cacaxr",
+        "text": ""
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/studies#h.bcdlz0u3c8yr",
+        "text": ""
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/studies#h.8m5c3dza9mm6",
+        "text": ""
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/studies/thesis-eng",
+        "text": "> Thesis - ENGLISH"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/studies#h.rmfjsryjq66w",
+        "text": ""
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/studies/thesis-ita",
+        "text": "> Thesis - ITALIAN"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/studies#h.u8obohixuymq",
+        "text": ""
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/studies/exam-list",
+        "text": "Exam list"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/studies#h.jyq9mwxs6dr6",
+        "text": ""
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work",
+        "text": "Works page"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/studies#h.ead8bn1lnkgi",
+        "text": ""
+      },
+      {
+        "href": "https://www.youtube.com/playlist?list=PL0qAPtx8YtJe2dpE7di4aPJwrQuRD6IDD",
+        "text": "https://www.youtube.com/playlist?list=PL0qAPtx8YtJe2dpE7di4aPJwrQuRD6IDD"
+      },
+      {
+        "href": "https://www.youtube.com/playlist?list=PL0qAPtx8YtJee1dk24wX-68yHTnMfzdX5",
+        "text": "https://www.youtube.com/playlist?list=PL0qAPtx8YtJee1dk24wX-68yHTnMfzdX5"
+      },
+      {
+        "href": "https://www.youtube.com/playlist?list=PL0qAPtx8YtJfRML8EDs7v9nwjdOt6dvaf",
+        "text": "https://www.youtube.com/playlist?list=PL0qAPtx8YtJfRML8EDs7v9nwjdOt6dvaf"
+      },
+      {
+        "href": "https://www.youtube.com/playlist?list=PL0qAPtx8YtJeqmBWbE1Rbac2QWHoPCjR2",
+        "text": "https://www.youtube.com/playlist?list=PL0qAPtx8YtJeqmBWbE1Rbac2QWHoPCjR2"
+      },
+      {
+        "href": "https://www.youtube.com/playlist?list=PL0qAPtx8YtJcJPSV4sOfhLtPbtQ-yycFH",
+        "text": "https://www.youtube.com/playlist?list=PL0qAPtx8YtJcJPSV4sOfhLtPbtQ-yycFH"
+      },
+      {
+        "href": "https://www.youtube.com/playlist?list=PLE555DB6188C967AC",
+        "text": "https://www.youtube.com/playlist?list=PLE555DB6188C967AC"
+      },
+      {
+        "href": "https://www.youtube.com/playlist?list=PL0qAPtx8YtJftaLnIroe7q9udsc9_qg6x",
+        "text": "https://www.youtube.com/playlist?list=PL0qAPtx8YtJftaLnIroe7q9udsc9_qg6x"
+      },
+      {
+        "href": "https://www.udacity.com/course/java-programming-basics--ud282",
+        "text": "https://www.udacity.com/course/java-programming-basics--ud282"
+      },
+      {
+        "href": "https://www.udacity.com/course/firebase-in-a-weekend-by-google-android--ud0352",
+        "text": "https://www.udacity.com/course/firebase-in-a-weekend-by-google-android--ud0352"
+      },
+      {
+        "href": "https://www.udacity.com/course/software-architecture-design--ud821",
+        "text": "https://www.udacity.com/course/software-architecture-design--ud821"
+      },
+      {
+        "href": "https://www.udacity.com/course/software-development-process--ud805",
+        "text": "https://www.udacity.com/course/software-development-process--ud805"
+      },
+      {
+        "href": "https://www.udacity.com/course/product-design--ud509",
+        "text": "https://www.udacity.com/course/product-design--ud509"
+      },
+      {
+        "href": "https://www.udacity.com/course/how-to-build-a-startup--ep245",
+        "text": "https://www.udacity.com/course/how-to-build-a-startup--ep245"
+      },
+      {
+        "href": "https://www.youtube.com/playlist?list=PL11qn6zM2Y3bMZdChxEqHKaCaKUjwItGL",
+        "text": "https://www.youtube.com/playlist?list=PL11qn6zM2Y3bMZdChxEqHKaCaKUjwItGL"
+      },
+      {
+        "href": "https://www.udacity.com/course/introduction-to-digital-project-management--ud043",
+        "text": "https://www.udacity.com/course/introduction-to-digital-project-management--ud043"
+      },
+      {
+        "href": "https://www.udacity.com/course/managing-remote-teams-with-upwork--ud942",
+        "text": "https://www.udacity.com/course/managing-remote-teams-with-upwork--ud942"
+      },
+      {
+        "href": "https://www.youtube.com/@VibhorChandel",
+        "text": "https://www.youtube.com/@VibhorChandel"
+      },
+      {
+        "href": "https://www.youtube.com/@Lacerbaio",
+        "text": "https://www.youtube.com/@Lacerbaio"
+      },
+      {
+        "href": "https://www.youtube.com/@mmontemagno",
+        "text": "https://www.youtube.com/@mmontemagno"
+      },
+      {
+        "href": "https://www.youtube.com/@StartupGeeksYoutube",
+        "text": "https://www.youtube.com/@StartupGeeksYoutube"
+      },
+      {
+        "href": "https://www.youtube.com/@mr_rip",
+        "text": "https://www.youtube.com/@mr_rip"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/studies#h.t4iky5u9maq8",
+        "text": ""
+      }
+    ],
+    "images": [],
+    "embeds": [],
+    "dimensions": {
+      "width": 1440,
+      "height": 900,
+      "scrollWidth": 1440,
+      "scrollHeight": 5095
+    }
+  },
+  "mobile": {
+    "status": 200,
+    "finalUrl": "https://www.lorenzomontarese.com/studies",
+    "dimensions": {
+      "width": 390,
+      "height": 844,
+      "scrollWidth": 390,
+      "scrollHeight": 8746
+    }
+  }
+}

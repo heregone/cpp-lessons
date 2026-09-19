@@ -1,0 +1,370 @@
+{
+  "requestedUrl": "https://www.lorenzomontarese.com/work/excel-tools/test-generator",
+  "capturedAt": "2026-09-19T15:51:11.901Z",
+  "desktop": {
+    "status": 200,
+    "finalUrl": "https://www.lorenzomontarese.com/work/excel-tools/test-generator",
+    "title": "Lorenzo Montarese - Test generator",
+    "language": "en-US",
+    "canonical": "",
+    "description": "",
+    "headings": [
+      {
+        "level": 1,
+        "text": "< Test generator"
+      },
+      {
+        "level": 3,
+        "text": "1) Fill the question section"
+      },
+      {
+        "level": 3,
+        "text": "2) Use the simulator"
+      },
+      {
+        "level": 3,
+        "text": "3) Set the parameters and generate tests"
+      },
+      {
+        "level": 3,
+        "text": "4) Print the tests"
+      },
+      {
+        "level": 2,
+        "text": "> Use the test rating calculator after students complete the test to calculate grades"
+      }
+    ],
+    "text": "< Test generator",
+    "links": [
+      {
+        "href": "https://www.lorenzomontarese.com/home",
+        "text": "Lorenzo Montarese"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/home",
+        "text": "HOME"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work",
+        "text": "Work"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work/heregone-code",
+        "text": "HereGone code"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work/java-app-for-view-management",
+        "text": "Java app for view management"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work/ms-access-app-for-restaurant-management",
+        "text": "MS Access app for restaurant management"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work/excel-tools",
+        "text": "Excel tools"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching",
+        "text": "Teaching"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/copia-di-its-project-management-course",
+        "text": "Copia di ITS Project management course"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/its-project-management-course",
+        "text": "ITS Project management course"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/excel-course",
+        "text": "Excel Course"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/school-projects",
+        "text": "School projects"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/studies",
+        "text": "Studies"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/studies/thesis-eng",
+        "text": "Thesis - ENG"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/studies/thesis-ita",
+        "text": "Thesis - ITA"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/studies/exam-list",
+        "text": "Exam list"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/about",
+        "text": "About"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/about/sketchup-projects",
+        "text": "Sketchup projects"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/about/photos",
+        "text": "Photos"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/curriculum",
+        "text": "Curriculum"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/home",
+        "text": "Lorenzo Montarese"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/home",
+        "text": "HOME"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work",
+        "text": "Work"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work/heregone-code",
+        "text": "HereGone code"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work/java-app-for-view-management",
+        "text": "Java app for view management"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work/ms-access-app-for-restaurant-management",
+        "text": "MS Access app for restaurant management"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work/excel-tools",
+        "text": "Excel tools"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching",
+        "text": "Teaching"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/copia-di-its-project-management-course",
+        "text": "Copia di ITS Project management course"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/its-project-management-course",
+        "text": "ITS Project management course"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/excel-course",
+        "text": "Excel Course"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/school-projects",
+        "text": "School projects"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/studies",
+        "text": "Studies"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/studies/thesis-eng",
+        "text": "Thesis - ENG"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/studies/thesis-ita",
+        "text": "Thesis - ITA"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/studies/exam-list",
+        "text": "Exam list"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/about",
+        "text": "About"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/about/sketchup-projects",
+        "text": "Sketchup projects"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/about/photos",
+        "text": "Photos"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/curriculum",
+        "text": "Curriculum"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/home",
+        "text": "HOME"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work",
+        "text": "Work"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work/heregone-code",
+        "text": "HereGone code"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work/java-app-for-view-management",
+        "text": "Java app for view management"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work/ms-access-app-for-restaurant-management",
+        "text": "MS Access app for restaurant management"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work/excel-tools",
+        "text": "Excel tools"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching",
+        "text": "Teaching"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/copia-di-its-project-management-course",
+        "text": "Copia di ITS Project management course"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/its-project-management-course",
+        "text": "ITS Project management course"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/excel-course",
+        "text": "Excel Course"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/school-projects",
+        "text": "School projects"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/studies",
+        "text": "Studies"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/studies/thesis-eng",
+        "text": "Thesis - ENG"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/studies/thesis-ita",
+        "text": "Thesis - ITA"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/studies/exam-list",
+        "text": "Exam list"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/about",
+        "text": "About"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/about/sketchup-projects",
+        "text": "Sketchup projects"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/about/photos",
+        "text": "Photos"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/curriculum",
+        "text": "Curriculum"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work/excel-tools/test-generator#h.1ecold9h0qxh",
+        "text": ""
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work/excel-tools",
+        "text": "<"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work/excel-tools/test-generator#h.bxr3logfkyvk",
+        "text": ""
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work/excel-tools/test-generator#h.7726wp686rlq",
+        "text": ""
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work/excel-tools/test-generator#h.8iqhj7bgiubm",
+        "text": ""
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work/excel-tools/test-generator#h.86zsa46l6nb7",
+        "text": ""
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work/excel-tools/test-generator#h.oazyk0q9dksw",
+        "text": ""
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work/excel-tools/test-rating-calculator",
+        "text": "> Use the test rating calculator after students complete the test to calculate grades"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72udbSTlr-FY9jw3N2_EzI7vkUoReYpe2dCDdJS13isrZ2G-7M0fwrO90mLuK7DDqvzCBFGd-URGskLuL7c9eADlI_9gK297n4-v2DxaHUexxnWV-SuxlIB2Pt_MaHy_V0G7sGu2nThBFtgalutSKvC6w0vfvsrCCxG-ts9snSuiZ2H3l12fTXMvKWC90ptcvFNdrQbUkHWuLqhnRbWAEuYqjMrAN0LH6ejndTVxXoE=w1280",
+        "alt": "",
+        "width": 1280,
+        "height": 518
+      },
+      {
+        "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uetpV01e6TETAauIttneR19MuUmq00d7_lJPOAn_oBPQMFJ3MMnf2u5VgZHa132QxFVIoDiG5sMdNwgXSySK_TX5qKtfcO6OkZTGEF2JTQxMlAZE-uPltptSnF7-GyouS7fbq05VPjlbyV1ofiL_rKS2IHz0DLijbduwlsmbfUR2HNR21GTqR3zAW7jqysJKWxyp9UJdhZ1hhX-5jNsUjPnBF2ynI7gEgZA11v=w1280",
+        "alt": "",
+        "width": 1280,
+        "height": 427
+      },
+      {
+        "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vgaFybqzx1TkaDdpItmzvW0CNPgME2xemj_OO-NqPEIjn4nOr1bXMTGQQzJUdPLkY9FANwZeP8fIbeGCUZaiyNfsugFt3Su9dwhppbujJAosy4jQyXkZToS3d8nC4Yiwl56s-K-aZb9zX4Rmg4UR2UU3eMB5ktcKK77RkmYFm2uU4hZIkcPwqdFl3E-L7_XN8PHdEDIEFGJF2_uDtKcm1WtZ2eRGUh21DI9B0FOvw=w1280",
+        "alt": "",
+        "width": 1280,
+        "height": 419
+      },
+      {
+        "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uVdF34d2SxSbnEQiUsBJDzqfznCfaDXNiQWW5b2KrJDicm91cwjaZf1olWk3PqGlvwFUVNYgwDYX_Rb_L_w_GGitIztO72JCm1fMH97my50kWyuxdne4A4-C2tA8cruyIqWjUuKZRUT_O7dF_00t1msx3t0ftrsBinuDQQABKWV2tyI_4KgXE5rgVKaYuAgbnEaTxrCRhtbmLa5IOFXCl6mR15l93QDENieX-8JNk=w1280",
+        "alt": "",
+        "width": 1280,
+        "height": 811
+      },
+      {
+        "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tHLtZ29Da_xEnnOUY7P6znlRRBw2HvcaxjVdZaEhrxz04VvWss-8o-wsI_lM_hbvRUSlTYnLp5UY6ws9XmS4m9UOpEk_8UpOA3OzPbkyIV0UO_jnOfP9DeACqYDVu5lEPcYPmPxAB51QpOGrAKsnmhBBpWrJz7gQwriookmem8PcRAK0Fos45mAUTR2iAgSR1JqKsSlM-zQovBtvvI8AQKpdZ2QiWtNHAbr0eE=w1280",
+        "alt": "",
+        "width": 1280,
+        "height": 893
+      },
+      {
+        "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vp6Mtuwdyfp2SBdg-kaw5Ah9HZIH85nWYKEBfTUzjE8YS0GO5_bIgnWInnVlEgKzPuZJhfg9TIopzogf02ADM5eIl2EWv0FfG-8lov6SAA-ENtobBv6iSUOWOc8E6tGb4xk1Sa9awBzGO1m9R7jWXe1EHITpj8KG-TYx4QpuqdTouUGRl-KkG6LR1kdo1JzUuofgpBqD0rJuWDT69VTv-XDKBnxswMkFCiPynA7co=w1280",
+        "alt": "",
+        "width": 1280,
+        "height": 857
+      },
+      {
+        "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72t5_AleV_lSf8_6_ee6qnRdeZkyxlafySkuPajUB6RQCz5NE8euRAN9VuXJYyYoVKgxCLOWBd383TiVoKis7PKLGe4xLhmF7IGdC0jiR_vK-ew8-ar8AcutE8OAfiP0iHAKhxeK9dmhhABhOVWmCNHfdQkIEJoFs4tqWVRQR1_NBakOFU3hOggzGZRZU5Pl-SGjW4_OcAAI2vPTEaXWBWNwh67s7nKLzWorp5Xlf5w=w1280",
+        "alt": "",
+        "width": 1280,
+        "height": 1113
+      }
+    ],
+    "embeds": [],
+    "dimensions": {
+      "width": 1440,
+      "height": 900,
+      "scrollWidth": 1440,
+      "scrollHeight": 5754
+    }
+  },
+  "mobile": {
+    "status": 200,
+    "finalUrl": "https://www.lorenzomontarese.com/work/excel-tools/test-generator",
+    "dimensions": {
+      "width": 390,
+      "height": 844,
+      "scrollWidth": 390,
+      "scrollHeight": 3619
+    }
+  }
+}

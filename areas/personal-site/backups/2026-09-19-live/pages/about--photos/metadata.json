@@ -1,0 +1,356 @@
+{
+  "requestedUrl": "https://www.lorenzomontarese.com/about/photos",
+  "capturedAt": "2026-09-19T15:51:00.971Z",
+  "desktop": {
+    "status": 200,
+    "finalUrl": "https://www.lorenzomontarese.com/about/photos",
+    "title": "Lorenzo Montarese - Photos",
+    "language": "en-US",
+    "canonical": "",
+    "description": "",
+    "headings": [
+      {
+        "level": 1,
+        "text": "< Photos"
+      }
+    ],
+    "text": "< Photos \n\nWhen I have the time and the opportunity I like to take some photos and make videos, here you can find what I think are my best shots.",
+    "links": [
+      {
+        "href": "https://www.lorenzomontarese.com/home",
+        "text": "Lorenzo Montarese"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/home",
+        "text": "HOME"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work",
+        "text": "Work"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work/heregone-code",
+        "text": "HereGone code"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work/java-app-for-view-management",
+        "text": "Java app for view management"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work/ms-access-app-for-restaurant-management",
+        "text": "MS Access app for restaurant management"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work/excel-tools",
+        "text": "Excel tools"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching",
+        "text": "Teaching"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/copia-di-its-project-management-course",
+        "text": "Copia di ITS Project management course"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/its-project-management-course",
+        "text": "ITS Project management course"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/excel-course",
+        "text": "Excel Course"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/school-projects",
+        "text": "School projects"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/studies",
+        "text": "Studies"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/studies/thesis-eng",
+        "text": "Thesis - ENG"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/studies/thesis-ita",
+        "text": "Thesis - ITA"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/studies/exam-list",
+        "text": "Exam list"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/about",
+        "text": "About"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/about/sketchup-projects",
+        "text": "Sketchup projects"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/about/photos",
+        "text": "Photos"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/curriculum",
+        "text": "Curriculum"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/home",
+        "text": "Lorenzo Montarese"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/home",
+        "text": "HOME"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work",
+        "text": "Work"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work/heregone-code",
+        "text": "HereGone code"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work/java-app-for-view-management",
+        "text": "Java app for view management"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work/ms-access-app-for-restaurant-management",
+        "text": "MS Access app for restaurant management"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work/excel-tools",
+        "text": "Excel tools"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching",
+        "text": "Teaching"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/copia-di-its-project-management-course",
+        "text": "Copia di ITS Project management course"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/its-project-management-course",
+        "text": "ITS Project management course"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/excel-course",
+        "text": "Excel Course"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/school-projects",
+        "text": "School projects"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/studies",
+        "text": "Studies"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/studies/thesis-eng",
+        "text": "Thesis - ENG"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/studies/thesis-ita",
+        "text": "Thesis - ITA"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/studies/exam-list",
+        "text": "Exam list"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/about",
+        "text": "About"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/about/sketchup-projects",
+        "text": "Sketchup projects"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/about/photos",
+        "text": "Photos"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/curriculum",
+        "text": "Curriculum"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/home",
+        "text": "HOME"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work",
+        "text": "Work"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work/heregone-code",
+        "text": "HereGone code"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work/java-app-for-view-management",
+        "text": "Java app for view management"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work/ms-access-app-for-restaurant-management",
+        "text": "MS Access app for restaurant management"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work/excel-tools",
+        "text": "Excel tools"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching",
+        "text": "Teaching"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/copia-di-its-project-management-course",
+        "text": "Copia di ITS Project management course"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/its-project-management-course",
+        "text": "ITS Project management course"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/excel-course",
+        "text": "Excel Course"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/school-projects",
+        "text": "School projects"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/studies",
+        "text": "Studies"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/studies/thesis-eng",
+        "text": "Thesis - ENG"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/studies/thesis-ita",
+        "text": "Thesis - ITA"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/studies/exam-list",
+        "text": "Exam list"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/about",
+        "text": "About"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/about/sketchup-projects",
+        "text": "Sketchup projects"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/about/photos",
+        "text": "Photos"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/curriculum",
+        "text": "Curriculum"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/about/photos#h.qp2toaxsv8st",
+        "text": ""
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work",
+        "text": "<"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72svtWC8G8oF08qvVPHEmfPj8U3UfsAsHdtrFQMSV61YELqkTSdZedSxyxEwHyY2xq0cDIlHlezGcBz-PZTISTlTz-2TQRK3Z3zw5QEXGrWZpAVTaqDeUGI6POBGFtOXBiSxUJlJiq9vUzM-3vo_j_NJ2p2UM4r8owIX5FzBRXTn53tgv5xpt71Z6hY1uXCD9dNSfCJ37EodGpmcKMzAmRl55d0lqqWMbAmerMsX8rA=w1280",
+        "alt": "",
+        "width": 1280,
+        "height": 837
+      },
+      {
+        "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uXFq7BsCw2KNI5krttpiEuUArwABM0I-LLadmGi-C9s0RcLk_4N7hZHP2kdv01d5-dli1WawBkTBni8mHubY1P61MGt0OWwkxV1AvyH9_KgBao4jEc_Lcg1e5CtojyIgptAFK5XC4Q9AXYxmcWfSg_OKWew7rDR_BkWa19ynuQLug8Nqa_aWgXZJpXT1x0p39nuUAOyXS4-YGohuoT27nLwpda9ByPqCejAkp5=w1280",
+        "alt": "",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vODf_NCvGk1mapaUNS0PfaxqGF6L1tYWMeDdeqI0EviDBgIJd-lRUO3sPEAqYKN_yGSFk26DrDVAsC19oaboNHIiby0SKQz0tKZUxaPIIcAUJHVurH1TSmqWlt4-A0GNpupUVm9IPYEA0HsM6j1yZPlaqStN0ATJDe7NV4Vt1fahj-TmC_PcVQ_WdBeEaNSUyrQQa6JuVT_jBm8G9SUWHKRVLo940sNdgalCSZ2Gw=w1280",
+        "alt": "",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tDoWTzxpaQtksyjEnfVaYOM0O9Kkw0Cl1kJDDYAnm5i97YRUNw1GtZhiFwWmNCwXNoRXCo7lqKzIU8owsiDVrUIpLFCIcX25e4Q4Q30rSmiV2YnXOOVR5vuGOHtcdTKdNQwXbT5I4vAeOlQ019L6NcJLzuWaZJKX1NJ77T33pKgHl3dkYI9LsxvyUMp0vdfChNESY0U_RUBl5r_v5bRuI8rYoJGoRI9nbAb2_hYkQ=w1280",
+        "alt": "",
+        "width": 1280,
+        "height": 636
+      },
+      {
+        "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72ubTvCt88JN14Wi4RrSZfeI03prZraT-zcirlo2DdhmLMfO4Fq8aARCB6CLsFZXN8VnGzK_DbFq8P4iDx8-8IAEAHlxpafpRWiJ_EQRKzS_GkwrfW6L-D8h8B49mHjVbSwSiykmEQ1kt9U1FQt3tBLxPemMQI5ZFU3dfC2txmQHFqWDGt1HLynobmKpl7dd7vgm3fsNFkXxmAB-rmh1ewq5helDNyFeck8tF4lzEnI=w1280",
+        "alt": "",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72s8jf5SwAbljicLq2mXiNeCnaS5OtpfgkBdh22UTxgAUF3MnBONAo0Rwh5phcTDIu2_pn8DHh9W4b8f45E9FX24Sy0xjwyEEuzc2OjSNgcV6_nf3ajwCLswBDuZm_z8SPTxT-8y_bywY1XWGDRkwJNfMOjDunaJyjiwSl4prbTkNm-eBMLqopG0sVjh33fp0qxLqbf9noFpOH5EMh3u4rGzaoopw37nK9nocD7t3wY=w1280",
+        "alt": "",
+        "width": 1280,
+        "height": 887
+      },
+      {
+        "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vPSKnIVwnTxMI9vzNWwsx524EUToq0x7XTKFEYScp3srlA9bdRMWyHh-yOXglZhg793YNc0i6DYFRTrzbWgwlpk_V8FN7q_2VASaL2FUcqkDwNPtg1CEx0GNZUmpJ7p1Yn_5CAUgDlP1TW1BxuVUEZMa1MtulamteZW4TJLDM-oCe_fGRFTuR_mv_-Jf6Cdofc18xxzmkuuWhdvifdHbqj0EfMcdoQSZqTE4d0=w1280",
+        "alt": "",
+        "width": 1280,
+        "height": 662
+      },
+      {
+        "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72ui66foEVRvS0Z78E33jIaQhoOAeaUCBc3A8IVUJxpxAFdMNKVDbvq6o7x7PKCeGd4QDXupGZY1sjcucPh2J99ApJkpk1eQhMQY4a-44cCivORy62r3d9HcztsczI-HSnxqHgxduY-4PjFOy-Pj1qzXjzcv_JKOQbKidYHiTSkSWnKg5m3a4yFiYEOppZ2PP3qkwEtmi2bUwoTVcqKrD6gw9TYHMaIzYWHD__NK=w1280",
+        "alt": "",
+        "width": 1280,
+        "height": 678
+      },
+      {
+        "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uvAA4YlmTHzN554aSbKoieq2r2Lf9tnDkWwjllWS0p6gQxHThwsp7XfD-zxah04sFA-iYEilL4f9lK_YULxWqeAEbu6aiuBpIKdDQfhylOLBt0CNuckMsVOCHMfrtO2cYS6OJs3R8WiVRl754W8Oey5Mbugacc2deT5cqRQDkKkgWSZ6HrQXUutbohMoQ2WB8uTBFSItfw5jSDmjintuyPMQCYwcLJOfoXnvKiOzU=w1280",
+        "alt": "",
+        "width": 1280,
+        "height": 853
+      },
+      {
+        "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72s4oOQGwU2ho2Ccqh6nPfXE_k0owhjNYQQmtfwDFEVK_WubTOfgdEhnomuUauS-36brO66eSLBZxSSiAidm-QhJql5IU5WbztGRlpt3kIVujZ3fAO7MrJns7gS9Vwuoc_BRsUccJlZ7z69wIxYj-2KXb5kUxXkKoII4KCq2pMU6GyUTzEEPAjJw7RsXSD0Yl8LEExsmCcLrp3kpzmZ8IizKkC9MI40015bp6cTf-Hw=w1280",
+        "alt": "",
+        "width": 1280,
+        "height": 2277
+      },
+      {
+        "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tW7piVkRckPIleSGPFWU31-kvCEzQGYi8CSt_4GAooiumJ628BXBQTIQoHHp5MQVUjC0aybYJsyOvfuiozijDpmT9gBHLiLD07d3Ylpve9wGlVqI6kP7JnuME77AW7WkRuZy0dj2mrTHjfE2WdKepo0lRcytkfToxreCMTjDw7LvSG-e0l0nHAnA_Lcr-hIp4i_ehVn2Bplan-msuFe_RxSlU88yxIkw9JCPJB=w1280",
+        "alt": "",
+        "width": 1280,
+        "height": 1920
+      },
+      {
+        "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72ssnK0yY02v7DBAMPeFghJE87J0cIeTGeHWgVT7N1eaBW-wq4rxb1tgjcNWz_z9DM1lU4DnOhW_YgRRfqTautbKEvva8qt7nq8K3BVU5Z70VzWkfy1gKMJt0Oo2YEJAIs3lkXzeu1d5C9noYFxPdtFYAALQTPLQh1H18oGG4Yt97gNjztQ2h72ZCaqTCDcbR15SljGNEUJsi61J3Dexip3Awkm0aA8WnulcnAVI=w1280",
+        "alt": "",
+        "width": 1280,
+        "height": 905
+      }
+    ],
+    "embeds": [],
+    "dimensions": {
+      "width": 1440,
+      "height": 900,
+      "scrollWidth": 1440,
+      "scrollHeight": 11511
+    }
+  },
+  "mobile": {
+    "status": 200,
+    "finalUrl": "https://www.lorenzomontarese.com/about/photos",
+    "dimensions": {
+      "width": 390,
+      "height": 844,
+      "scrollWidth": 390,
+      "scrollHeight": 4132
+    }
+  }
+}

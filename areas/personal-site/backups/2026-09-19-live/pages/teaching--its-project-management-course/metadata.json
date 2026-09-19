@@ -1,0 +1,361 @@
+{
+  "requestedUrl": "https://www.lorenzomontarese.com/teaching/its-project-management-course",
+  "capturedAt": "2026-09-19T15:50:21.591Z",
+  "desktop": {
+    "status": 200,
+    "finalUrl": "https://www.lorenzomontarese.com/teaching/its-project-management-course",
+    "title": "Lorenzo Montarese - ITS Project management course",
+    "language": "en-US",
+    "canonical": "",
+    "description": "",
+    "headings": [
+      {
+        "level": 1,
+        "text": "< ITS Project management course"
+      },
+      {
+        "level": 3,
+        "text": "This is the program of the course:"
+      },
+      {
+        "level": 3,
+        "text": "Here you can find the slides of the course:"
+      }
+    ],
+    "text": "< ITS Project management course\nThis is the program of the course:\n\nLibri e riferimenti: tesi, PMBOK, wikipedia\n\nBreve storia del Project management\n\nAltri ruoli simili (Porfolio, Program, Product, Project (manager))\n\nIl lavoro del Project manager\n\nIl triangolo dei vincoli\n\nGli Stakeholder\n\nLo Sponsor\n\nCenni di organizzazione aziendale\n\nCultura aziendale e del gruppo\n\nProject management in diversi ambiti\n\nStime di tempi e costi e affidabilità delle stesse\n\nLa Distribuzione normale\n\nPredittivo (Waterfall), Iterativo (Scrum, Agile e Lean)\n\nFasi del project management classico:\n\nAvvio\n\nPianificazione\n\nEsecuzione\n\nControllo e monitoraggio\n\nChiusura\n\nKanban, Scrum e Agile\n\nDeliverable, Milestone e creazione di valore\n\nScope management\n\nRisk management\n\nQuality management \n\nGantt\n\nTools (Notion/trello)\n\nDiagrammi di flusso\n\nWBS e ABS\n\nPERT, CPM e stima alternativa\n\nProject management in ambito software\n\nSuddivisione del lavoro in Story \n\nMetodo di stima alternativo (per Story e capacità del team)\n\nTutorial Notion\n\nCaso di studio dalla letteratura\n\n\n\n\nEsame finale con test a risposta multipla randomizzati\n\n\n\nHere you can find the slides of the course:\n\nBLOCK 1",
+    "links": [
+      {
+        "href": "https://www.lorenzomontarese.com/home",
+        "text": "Lorenzo Montarese"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/home",
+        "text": "HOME"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work",
+        "text": "Work"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work/heregone-code",
+        "text": "HereGone code"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work/java-app-for-view-management",
+        "text": "Java app for view management"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work/ms-access-app-for-restaurant-management",
+        "text": "MS Access app for restaurant management"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work/excel-tools",
+        "text": "Excel tools"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching",
+        "text": "Teaching"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/copia-di-its-project-management-course",
+        "text": "Copia di ITS Project management course"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/its-project-management-course",
+        "text": "ITS Project management course"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/excel-course",
+        "text": "Excel Course"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/school-projects",
+        "text": "School projects"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/studies",
+        "text": "Studies"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/studies/thesis-eng",
+        "text": "Thesis - ENG"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/studies/thesis-ita",
+        "text": "Thesis - ITA"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/studies/exam-list",
+        "text": "Exam list"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/about",
+        "text": "About"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/about/sketchup-projects",
+        "text": "Sketchup projects"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/about/photos",
+        "text": "Photos"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/curriculum",
+        "text": "Curriculum"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/home",
+        "text": "Lorenzo Montarese"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/home",
+        "text": "HOME"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work",
+        "text": "Work"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work/heregone-code",
+        "text": "HereGone code"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work/java-app-for-view-management",
+        "text": "Java app for view management"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work/ms-access-app-for-restaurant-management",
+        "text": "MS Access app for restaurant management"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work/excel-tools",
+        "text": "Excel tools"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching",
+        "text": "Teaching"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/copia-di-its-project-management-course",
+        "text": "Copia di ITS Project management course"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/its-project-management-course",
+        "text": "ITS Project management course"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/excel-course",
+        "text": "Excel Course"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/school-projects",
+        "text": "School projects"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/studies",
+        "text": "Studies"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/studies/thesis-eng",
+        "text": "Thesis - ENG"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/studies/thesis-ita",
+        "text": "Thesis - ITA"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/studies/exam-list",
+        "text": "Exam list"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/about",
+        "text": "About"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/about/sketchup-projects",
+        "text": "Sketchup projects"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/about/photos",
+        "text": "Photos"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/curriculum",
+        "text": "Curriculum"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/home",
+        "text": "HOME"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work",
+        "text": "Work"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work/heregone-code",
+        "text": "HereGone code"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work/java-app-for-view-management",
+        "text": "Java app for view management"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work/ms-access-app-for-restaurant-management",
+        "text": "MS Access app for restaurant management"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work/excel-tools",
+        "text": "Excel tools"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching",
+        "text": "Teaching"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/copia-di-its-project-management-course",
+        "text": "Copia di ITS Project management course"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/its-project-management-course",
+        "text": "ITS Project management course"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/excel-course",
+        "text": "Excel Course"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/school-projects",
+        "text": "School projects"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/studies",
+        "text": "Studies"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/studies/thesis-eng",
+        "text": "Thesis - ENG"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/studies/thesis-ita",
+        "text": "Thesis - ITA"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/studies/exam-list",
+        "text": "Exam list"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/about",
+        "text": "About"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/about/sketchup-projects",
+        "text": "Sketchup projects"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/about/photos",
+        "text": "Photos"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/curriculum",
+        "text": "Curriculum"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/its-project-management-course#h.wj34yoks49ta",
+        "text": ""
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work",
+        "text": "<"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/its-project-management-course#h.jwljynb09sur",
+        "text": ""
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/its-project-management-course#h.v1k56xfujfvb",
+        "text": ""
+      }
+    ],
+    "images": [
+      {
+        "src": "https://www.gstatic.com/images/icons/material/product/1x/drive_2026_32dp.png",
+        "alt": "",
+        "width": 32,
+        "height": 32
+      },
+      {
+        "src": "https://www.gstatic.com/images/icons/material/product/1x/drive_2026_32dp.png",
+        "alt": "",
+        "width": 32,
+        "height": 32
+      },
+      {
+        "src": "https://www.gstatic.com/images/icons/material/product/1x/drive_2026_32dp.png",
+        "alt": "",
+        "width": 32,
+        "height": 32
+      },
+      {
+        "src": "https://www.gstatic.com/images/icons/material/product/1x/drive_2026_32dp.png",
+        "alt": "",
+        "width": 32,
+        "height": 32
+      },
+      {
+        "src": "https://www.gstatic.com/images/icons/material/product/1x/drive_2026_32dp.png",
+        "alt": "",
+        "width": 32,
+        "height": 32
+      },
+      {
+        "src": "https://www.gstatic.com/images/icons/material/product/1x/drive_2026_32dp.png",
+        "alt": "",
+        "width": 32,
+        "height": 32
+      }
+    ],
+    "embeds": [
+      {
+        "tag": "iframe",
+        "src": "https://drive.google.com/file/d/1SS8ZOLsHkJtOjrCwL4s37H3XuXAZd4sv/preview"
+      },
+      {
+        "tag": "iframe",
+        "src": "https://drive.google.com/file/d/1SQ9rb5GVbwU8qbzj1uF6sceJ6Fa5q7u7/preview"
+      },
+      {
+        "tag": "iframe",
+        "src": "https://drive.google.com/file/d/1SJbh0tN8zQjGrZbvfuqTS1kWNmasa-o-/preview"
+      },
+      {
+        "tag": "iframe",
+        "src": "https://drive.google.com/file/d/1SlzO2o3ssn_clus6ysQWV9PEMvDHjvHh/preview"
+      },
+      {
+        "tag": "iframe",
+        "src": "https://drive.google.com/file/d/1SoQra6EEzfZhH6pXDZk_xAcI25UmodwR/preview"
+      },
+      {
+        "tag": "iframe",
+        "src": "https://drive.google.com/file/d/1So67YnudXMJm3dATuOKt_gkfEwsaskqO/preview"
+      }
+    ],
+    "dimensions": {
+      "width": 1440,
+      "height": 900,
+      "scrollWidth": 1440,
+      "scrollHeight": 7377
+    }
+  },
+  "mobile": {
+    "status": 200,
+    "finalUrl": "https://www.lorenzomontarese.com/teaching/its-project-management-course",
+    "dimensions": {
+      "width": 390,
+      "height": 844,
+      "scrollWidth": 390,
+      "scrollHeight": 4267
+    }
+  }
+}

@@ -1,0 +1,545 @@
+{
+  "requestedUrl": "https://www.lorenzomontarese.com/teaching/excel-course",
+  "capturedAt": "2026-09-19T15:50:36.884Z",
+  "desktop": {
+    "status": 200,
+    "finalUrl": "https://www.lorenzomontarese.com/teaching/excel-course",
+    "title": "Lorenzo Montarese - Excel Course",
+    "language": "en-US",
+    "canonical": "",
+    "description": "",
+    "headings": [
+      {
+        "level": 1,
+        "text": "< Excel course"
+      },
+      {
+        "level": 3,
+        "text": "Nota a margine: per avere un'idea delle potenzialità di Excel unito alle volte a VBA si guardi agli elementi presenti in nella pagina Excel tools"
+      },
+      {
+        "level": 2,
+        "text": "Teoria"
+      },
+      {
+        "level": 3,
+        "text": "Funzioni"
+      },
+      {
+        "level": 3,
+        "text": "Operatori logici"
+      },
+      {
+        "level": 2,
+        "text": "Esercizi per le lezioni"
+      },
+      {
+        "level": 3,
+        "text": "Esercizio 1 - Introduzione"
+      },
+      {
+        "level": 3,
+        "text": "Esercizio 2 - Calcolo delle probabilità"
+      },
+      {
+        "level": 3,
+        "text": "Esercizio 3 - Calcolatore di voti per esami orali"
+      },
+      {
+        "level": 3,
+        "text": "Esercizio 4 - Logistica"
+      },
+      {
+        "level": 3,
+        "text": "Esercizio 5 - Test rating calculator"
+      },
+      {
+        "level": 3,
+        "text": "Esercizio 6 - Finanza personale"
+      },
+      {
+        "level": 3,
+        "text": "Esercizio 7 - Importazione dati da CSV"
+      },
+      {
+        "level": 3,
+        "text": "Esercizio 8 - Analisi inventario"
+      },
+      {
+        "level": 3,
+        "text": "Esercizio 9 - Registro della scuola"
+      },
+      {
+        "level": 3,
+        "text": "Esercizio 10 - Database libreria"
+      },
+      {
+        "level": 3,
+        "text": "Esercizio 11 - Tabelle pivot"
+      },
+      {
+        "level": 3,
+        "text": "Esercizio 12 - Date"
+      }
+    ],
+    "text": "< Excel course",
+    "links": [
+      {
+        "href": "https://www.lorenzomontarese.com/home",
+        "text": "Lorenzo Montarese"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/home",
+        "text": "HOME"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work",
+        "text": "Work"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work/heregone-code",
+        "text": "HereGone code"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work/java-app-for-view-management",
+        "text": "Java app for view management"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work/ms-access-app-for-restaurant-management",
+        "text": "MS Access app for restaurant management"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work/excel-tools",
+        "text": "Excel tools"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching",
+        "text": "Teaching"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/copia-di-its-project-management-course",
+        "text": "Copia di ITS Project management course"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/its-project-management-course",
+        "text": "ITS Project management course"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/excel-course",
+        "text": "Excel Course"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/school-projects",
+        "text": "School projects"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/studies",
+        "text": "Studies"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/studies/thesis-eng",
+        "text": "Thesis - ENG"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/studies/thesis-ita",
+        "text": "Thesis - ITA"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/studies/exam-list",
+        "text": "Exam list"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/about",
+        "text": "About"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/about/sketchup-projects",
+        "text": "Sketchup projects"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/about/photos",
+        "text": "Photos"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/curriculum",
+        "text": "Curriculum"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/home",
+        "text": "Lorenzo Montarese"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/home",
+        "text": "HOME"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work",
+        "text": "Work"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work/heregone-code",
+        "text": "HereGone code"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work/java-app-for-view-management",
+        "text": "Java app for view management"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work/ms-access-app-for-restaurant-management",
+        "text": "MS Access app for restaurant management"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work/excel-tools",
+        "text": "Excel tools"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching",
+        "text": "Teaching"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/copia-di-its-project-management-course",
+        "text": "Copia di ITS Project management course"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/its-project-management-course",
+        "text": "ITS Project management course"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/excel-course",
+        "text": "Excel Course"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/school-projects",
+        "text": "School projects"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/studies",
+        "text": "Studies"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/studies/thesis-eng",
+        "text": "Thesis - ENG"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/studies/thesis-ita",
+        "text": "Thesis - ITA"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/studies/exam-list",
+        "text": "Exam list"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/about",
+        "text": "About"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/about/sketchup-projects",
+        "text": "Sketchup projects"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/about/photos",
+        "text": "Photos"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/curriculum",
+        "text": "Curriculum"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/home",
+        "text": "HOME"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work",
+        "text": "Work"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work/heregone-code",
+        "text": "HereGone code"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work/java-app-for-view-management",
+        "text": "Java app for view management"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work/ms-access-app-for-restaurant-management",
+        "text": "MS Access app for restaurant management"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work/excel-tools",
+        "text": "Excel tools"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching",
+        "text": "Teaching"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/copia-di-its-project-management-course",
+        "text": "Copia di ITS Project management course"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/its-project-management-course",
+        "text": "ITS Project management course"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/excel-course",
+        "text": "Excel Course"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/school-projects",
+        "text": "School projects"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/studies",
+        "text": "Studies"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/studies/thesis-eng",
+        "text": "Thesis - ENG"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/studies/thesis-ita",
+        "text": "Thesis - ITA"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/studies/exam-list",
+        "text": "Exam list"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/about",
+        "text": "About"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/about/sketchup-projects",
+        "text": "Sketchup projects"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/about/photos",
+        "text": "Photos"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/curriculum",
+        "text": "Curriculum"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/excel-course#h.2bkkavdkqdh3",
+        "text": ""
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work",
+        "text": "<"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/excel-course#h.zdg3rpofey4g",
+        "text": ""
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/work/excel-tools",
+        "text": "Excel tools"
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/excel-course#h.j87f9gq3r46z",
+        "text": ""
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/excel-course#h.p2s3gb7oijjy",
+        "text": ""
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/excel-course#h.gim5vut96u38",
+        "text": ""
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/excel-course#h.nvigp6fomrc0",
+        "text": ""
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/excel-course#h.zfdrrrqylczx",
+        "text": ""
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/excel-course#h.lww3fk879xmg",
+        "text": ""
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/excel-course#h.1okvazexz1b2",
+        "text": ""
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/excel-course#h.v0s5t59u8cd",
+        "text": ""
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/excel-course#h.o4fbb4fyr7h8",
+        "text": ""
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/excel-course#h.3tpzjw9r2te",
+        "text": ""
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/excel-course#h.az12wb7g7vta",
+        "text": ""
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/excel-course#h.kpuag82r8x0h",
+        "text": ""
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/excel-course#h.cmtd8g9d1nrb",
+        "text": ""
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/excel-course#h.2qxktkpnsc1c",
+        "text": ""
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/excel-course#h.a1qn6065grd8",
+        "text": ""
+      },
+      {
+        "href": "https://www.lorenzomontarese.com/teaching/excel-course#h.z4oo2ioxsh3z",
+        "text": ""
+      }
+    ],
+    "images": [
+      {
+        "src": "https://www.gstatic.com/images/icons/material/product/1x/drive_2026_32dp.png",
+        "alt": "",
+        "width": 32,
+        "height": 32
+      },
+      {
+        "src": "https://www.gstatic.com/images/icons/material/product/1x/drive_2026_32dp.png",
+        "alt": "",
+        "width": 32,
+        "height": 32
+      },
+      {
+        "src": "https://www.gstatic.com/images/icons/material/product/1x/drive_2026_32dp.png",
+        "alt": "",
+        "width": 32,
+        "height": 32
+      },
+      {
+        "src": "https://www.gstatic.com/images/icons/material/product/1x/drive_2026_32dp.png",
+        "alt": "",
+        "width": 32,
+        "height": 32
+      },
+      {
+        "src": "https://www.gstatic.com/images/icons/material/product/1x/drive_2026_32dp.png",
+        "alt": "",
+        "width": 32,
+        "height": 32
+      },
+      {
+        "src": "https://www.gstatic.com/images/icons/material/product/1x/drive_2026_32dp.png",
+        "alt": "",
+        "width": 32,
+        "height": 32
+      },
+      {
+        "src": "https://www.gstatic.com/images/icons/material/product/1x/drive_2026_32dp.png",
+        "alt": "",
+        "width": 32,
+        "height": 32
+      },
+      {
+        "src": "https://www.gstatic.com/images/icons/material/product/1x/drive_2026_32dp.png",
+        "alt": "",
+        "width": 32,
+        "height": 32
+      },
+      {
+        "src": "https://www.gstatic.com/images/icons/material/product/1x/drive_2026_32dp.png",
+        "alt": "",
+        "width": 32,
+        "height": 32
+      },
+      {
+        "src": "https://www.gstatic.com/images/icons/material/product/1x/drive_2026_32dp.png",
+        "alt": "",
+        "width": 32,
+        "height": 32
+      },
+      {
+        "src": "https://www.gstatic.com/images/icons/material/product/1x/drive_2026_32dp.png",
+        "alt": "",
+        "width": 32,
+        "height": 32
+      },
+      {
+        "src": "https://www.gstatic.com/images/icons/material/product/1x/drive_2026_32dp.png",
+        "alt": "",
+        "width": 32,
+        "height": 32
+      }
+    ],
+    "embeds": [
+      {
+        "tag": "iframe",
+        "src": "https://drive.google.com/file/d/1ghK3691Cc8n7HM8zilQE6PUUVWSvR9FD/preview"
+      },
+      {
+        "tag": "iframe",
+        "src": "https://drive.google.com/file/d/1gtBMX9ByG8bh-ezTlz3YGnflwEDVjbPo/preview"
+      },
+      {
+        "tag": "iframe",
+        "src": "https://drive.google.com/file/d/1f2N1KaHfQ_TLp0oISxLChWHc7VeKqv0J/preview"
+      },
+      {
+        "tag": "iframe",
+        "src": "https://drive.google.com/file/d/1exF60wJnCbFwxOHlXY-lnGId3vy5aDSU/preview"
+      },
+      {
+        "tag": "iframe",
+        "src": "https://drive.google.com/file/d/1flhdYYIHVKMgMCL7f8pM0-HiyBw7H2Dw/preview"
+      },
+      {
+        "tag": "iframe",
+        "src": "https://drive.google.com/file/d/1gzY_iJXsAvBPw646clqzbux9OGSXOLBC/preview"
+      },
+      {
+        "tag": "iframe",
+        "src": "https://drive.google.com/file/d/1fPJimUru00d_UEJgN1i9bEM3VfChx_zN/preview"
+      },
+      {
+        "tag": "iframe",
+        "src": "https://drive.google.com/file/d/1fGadT6K_9qau6vHJmwleS5dGw7iUG4Ra/preview"
+      },
+      {
+        "tag": "iframe",
+        "src": "https://drive.google.com/file/d/1hVLy32HYOhWi43bL5D0bZG_dOxvCfThR/preview"
+      },
+      {
+        "tag": "iframe",
+        "src": "https://drive.google.com/file/d/1hkM6Q2mu5epu6X14-olqjM1ZQGAKqAqU/preview"
+      },
+      {
+        "tag": "iframe",
+        "src": "https://drive.google.com/file/d/1i84qpRg3EAj5ztFKXjy939jLE00F_ZRi/preview"
+      },
+      {
+        "tag": "iframe",
+        "src": "https://drive.google.com/file/d/1iIfhvxW-E1aLzPfo6ntw-VQtZSdaYr5k/preview"
+      }
+    ],
+    "dimensions": {
+      "width": 1440,
+      "height": 900,
+      "scrollWidth": 1440,
+      "scrollHeight": 11862
+    }
+  },
+  "mobile": {
+    "status": 200,
+    "finalUrl": "https://www.lorenzomontarese.com/teaching/excel-course",
+    "dimensions": {
+      "width": 390,
+      "height": 844,
+      "scrollWidth": 390,
+      "scrollHeight": 5061
+    }
+  }
+}
