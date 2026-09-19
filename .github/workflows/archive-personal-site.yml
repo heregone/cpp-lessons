@@ -1,0 +1,64 @@
+name: Archive public personal site
+
+on:
+  push:
+    branches:
+      - dev
+    paths:
+      - .github/workflows/archive-personal-site.yml
+      - scripts/site-archive/parts/**
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: temporary-archive-lorenzomontarese-site-dev
+  cancel-in-progress: false
+
+jobs:
+  archive:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+
+    steps:
+      - name: Check out dev
+        uses: actions/checkout@v4
+        with:
+          ref: dev
+          fetch-depth: 0
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Install Playwright and Chromium
+        run: |
+          npm install --no-save --package-lock=false playwright@1.55.0
+          npx playwright install --with-deps chromium
+
+      - name: Capture public site
+        env:
+          SITE_URL: https://www.lorenzomontarese.com/
+          SNAPSHOT_DATE: '2026-09-19'
+          MAX_PAGES: '250'
+        run: |
+          cat scripts/site-archive/parts/archive-personal-site.part-*.mjs > .archive-personal-site.mjs
+          node .archive-personal-site.mjs
+          rm -f .archive-personal-site.mjs
+
+      - name: Commit temporary capture
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git config http.postBuffer 524288000
+          git add areas/personal-site/README.md areas/personal-site/backups
+          if git diff --cached --quiet; then
+            echo 'No backup changes to commit.'
+            exit 0
+          fi
+          git commit -m 'archive(site): temporary snapshot lorenzomontarese.com 2026-09-19 [skip ci]'
+          git push origin HEAD:dev
